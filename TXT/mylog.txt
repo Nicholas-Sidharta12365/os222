@@ -12,5 +12,5 @@ ZCZC W00 400 L10 Reading Assignments
 ZCZC W00 60 L06 Read Linux From Scratch Book Chapter 1
 ZCZC W00 30 L06 Fast Read Linux From Scratch Book Chapter 2
 ZCZC W01 120 L22 Reading and Trying to Decrypt TARBALL
-ZCZC W01 420 L11 Setup a VirtualBox Debian Guest
-ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 540 L11 Setup a VirtualBox Debian Guest
+ZCZC W01 200 L02 ZOOM meetings related
