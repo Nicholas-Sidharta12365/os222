@@ -19,3 +19,4 @@ ZCZC W01 3 L05 Quiz Week 1
 ZCZC W01 360 L12 Read and GSGS - The ATM Way
 ZCZC W01 60 L13 Adding helpful links to links.md as per instruction
 ZCZC W01 30 L14 Finishing Week 1 Assignments and adding myupdate.txt
+ZCZC W01 100 L02 ZOOM meetings related
