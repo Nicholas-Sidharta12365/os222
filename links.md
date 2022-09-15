@@ -30,4 +30,7 @@ permalink: LINKS/
 ## Week 2
 1. [Private Vs Public Key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)
 A very useful link for me since I was really interested in public and private keys and how they work. Definitely recommended to those who still don't understand the main difference of those two, really easy to understand and simple.
-2. 
+2. [The C Programming Language Second Edition](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
+An insanely complete book about everything you need to know about the C programming language. From the basics to the complex concepts, complete with examples and easy to understand explanations. Recommended for anyone who wants to learn about the C programming language, it really helped me a lot on understanding the concepts of Memory Addressing, Memory Allocations, strings(char*) in C, as well as printf formatings.
+3. [Principle of least privilege](https://delinea.com/what-is/least-privilege)
+A very detailed and informative webpage that explains the concept of principle of least privilege in computer and computer network security. I found this term on this week's slide and got really curious about it, the webpage might be quite devastating at first but honestly it is an amusing explanation complete with images to show how it works.
