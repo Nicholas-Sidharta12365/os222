@@ -26,3 +26,8 @@ permalink: LINKS/
 6. [Grep Vs Sed Vs Awk](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)<br>
     Another little link I found while scavenging for OS 222 materials for week 1. This link is very helpful if you want to know the differences of grep, sed, and awk. The link itself is a documentation but I found it pretty easy to understand complete with examples and easy to understand explanations.
 <br>
+
+## Week 2
+1. [Private Vs Public Key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)
+A very useful link for me since I was really interested in public and private keys and how they work. Definitely recommended to those who still don't understand the main difference of those two, really easy to understand and simple.
+2. 
