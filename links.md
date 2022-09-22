@@ -34,3 +34,11 @@ A very useful link for me since I was really interested in public and private ke
 An insanely complete book about everything you need to know about the C programming language. From the basics to the complex concepts, complete with examples and easy to understand explanations. Recommended for anyone who wants to learn about the C programming language, it really helped me a lot on understanding the concepts of Memory Addressing, Memory Allocations, strings(char*) in C, as well as printf formatings.
 3. [Principle of least privilege](https://delinea.com/what-is/least-privilege)
 A very detailed and informative webpage that explains the concept of principle of least privilege in computer and computer network security. I found this term on this week's slide and got really curious about it, the webpage might be quite devastating at first but honestly it is an amusing explanation complete with images to show how it works.
+
+## Week 3
+1. [Bind command in Linux](https://www.geeksforgeeks.org/bind-command-in-linux-with-examples/#:~:text=bind%20command%20is%20Bash%20shell,being%20pressed%20on%20the%20keyboard.)
+A website that teaches me a lot about linux's bind command. I got interested in learning this since this could help me save a lot of time instead of typing something over and over again especially if a bash line is considered long. I recommended this since I believe it is very complete and very easy to understand, highly recommended.
+2. [File Management - Geeks for Geeks](https://www.geeksforgeeks.org/file-management-in-linux/)
+A website that explains common file management commands on linux, complete with explanations, examples, and demos. Personally, I think this website is really useful, informative, and really easy to understand.
+3. [File Management Commands](https://www.tutorialspoint.com/unix/unix-file-management.htm)
+An addition from the link above, this web explains in more detail about file management as well as providing more examples of file management commands on Unix/Linux. It is complete with easy to understand explanation and examples. Highly recommended.
