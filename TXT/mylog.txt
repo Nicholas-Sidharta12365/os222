@@ -29,7 +29,10 @@ ZCZC W02 120 L16 Assignment #6 Finished, Recheck TXT Folder, and Pushed to Githu
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 240 L11 Assignment #1 Finished
 ZCZC W03 120 L12 Assignment #2 Finished
-ZCZC W03 90 L13 Assignment #3 Complete
-ZCZC W03 80 L06 Study Week 03 Slides
+ZCZC W03 120 L13 Assignment #3 Complete
+ZCZC W03 120 L06 Study Week 03 Slides
 ZCZC W03 60 L06 Read about Linux bind command
 ZCZC W03 60 L21 Trying Linux bind commands
+ZCZC W03 10 L05 Essay Quiz Week 3
+ZCZC W03 3 L05 Quiz Week 3
+ZCZC W03 100 L99 Face-to-face lecture
