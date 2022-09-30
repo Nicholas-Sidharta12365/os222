@@ -42,3 +42,11 @@ A website that teaches me a lot about linux's bind command. I got interested in 
 A website that explains common file management commands on linux, complete with explanations, examples, and demos. Personally, I think this website is really useful, informative, and really easy to understand.
 3. [File Management Commands](https://www.tutorialspoint.com/unix/unix-file-management.htm)
 An addition from the link above, this web explains in more detail about file management as well as providing more examples of file management commands on Unix/Linux. It is complete with easy to understand explanation and examples. Highly recommended.
+
+## Week 4
+1. [Memory Addressing](https://www.uobabylon.edu.iq/eprints/publication_3_22584_1575.pdf)
+A relatively short but complete explanation about Memory Addressing, complete with pictures to help demonstrate the action happening under the hood. In my opinion, the explanations are really easy to understand and relatively simple to grasp. This link helped me a lot when first understanding about how memory works and how to access data within a memory using address.
+2. [Pointers in C](https://computer.howstuffworks.com/c23.htm)
+A complete explanation on the practical side of memory addressing using the C language. Pointers are used to access a certain value within an address of a memory. This concept helped me a whole lot when trying to practice memory addressing using C.
+3. [Writing to Variable-Format Text Files](https://www.ibm.com/docs/en/zos/2.2.0?topic=SSLTBW_2.2.0/com.ibm.zos.v2r2.cbcpx01/oswvtx.htm)
+A really helpful link from IBM that explains about writing to variable-format text files. This page is more of a documentation than an article, so it might take quite the time to understand but this page provided me with a complete information about this topic and I highly recommended it to anyone who is interested.
