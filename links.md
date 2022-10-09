@@ -50,3 +50,11 @@ A relatively short but complete explanation about Memory Addressing, complete wi
 A complete explanation on the practical side of memory addressing using the C language. Pointers are used to access a certain value within an address of a memory. This concept helped me a whole lot when trying to practice memory addressing using C.
 3. [Writing to Variable-Format Text Files](https://www.ibm.com/docs/en/zos/2.2.0?topic=SSLTBW_2.2.0/com.ibm.zos.v2r2.cbcpx01/oswvtx.htm)
 A really helpful link from IBM that explains about writing to variable-format text files. This page is more of a documentation than an article, so it might take quite the time to understand but this page provided me with a complete information about this topic and I highly recommended it to anyone who is interested.
+
+## Week 5
+1. [Paging](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html)
+An indepth explanation about paging structures and paging in linux kernel. In my opinion, the explanation is kind of hard to understand but it has a very detailed breakdown and complete with pictures to make it a bit easier to comprehend.
+2. [Kernel Panic](https://www.techtarget.com/searchdatacenter/definition/kernel-panic#:~:text=A%20kernel%20panic%20refers%20to,is%20unable%20to%20fix%20it.)
+An easy to understand and complete explanation about kernel panics in different operating systems and different causes of kernel panic. I really recommend this to anyone who is interested in learning more about kernels and kernel panic.
+3. [Virtual Vs Physical Memory](https://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory)
+A forum from stackoverflow that explains in depth about the main difference of physical and virtual memory and complete with their mechanism explanations. A bit complex to understand but it works if you really put your mind into it. This link helped me understand deeper about virtual and physical memories especially in my own computer as well as the one used in virtual box.
