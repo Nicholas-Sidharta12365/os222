@@ -54,3 +54,11 @@ ZCZC W05 120 L12 Assignment #2 Finished
 ZCZC W05 120 L13 Assignment #3 Finished
 ZCZC W05 120 L06 Reading about Linux Kernel Panic
 ZCZC W05 60 L21 Messing Around with Linux Memory for Pop Quiz
+ZCZC W06 200 L99 Face-to-face lecture
+ZCZC W06 5 L05 Essay Quiz Week 6
+ZCZC W06 3 L05 Quiz Week 6
+ZCZC W06 360 L11 Assignment #1 Finished
+ZCZC W06 60 L12 Assignment #2 Finished
+ZCZC W06 120 L13 Assignment #3 Finished
+ZCZC W06 120 L14 Assignment #4 Finished
+ZCZC W06 200 L06 Study Week 06 Slides

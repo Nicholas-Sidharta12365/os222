@@ -58,3 +58,11 @@ An indepth explanation about paging structures and paging in linux kernel. In my
 An easy to understand and complete explanation about kernel panics in different operating systems and different causes of kernel panic. I really recommend this to anyone who is interested in learning more about kernels and kernel panic.
 3. [Virtual Vs Physical Memory](https://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory)
 A forum from stackoverflow that explains in depth about the main difference of physical and virtual memory and complete with their mechanism explanations. A bit complex to understand but it works if you really put your mind into it. This link helped me understand deeper about virtual and physical memories especially in my own computer as well as the one used in virtual box.
+
+## Week 6
+1. [Maximum number of pid in linux](https://stackoverflow.com/questions/6294133/maximum-pid-in-linux#:~:text=It's%2032768%20by%20default%2C%20you,%2Fsys%2Fkernel%2Fpid_max%20.)
+An explanation about the maximum number or process id and how the value of it come to be. Complete with a command on how to access it. This is a very interesting fun fact and a question that was bugging me since the tuesday class about pids.
+2. [Difference of _exit() and exit() function](https://stackoverflow.com/questions/5422831/what-is-the-difference-between-using-exit-exit-in-a-conventional-linux-fo)
+An explanation about the difference about this two functions on terminating a process. I believe to be very useful especially with short and compact explanations.
+3. [exit vs _exit - gfg](https://www.geeksforgeeks.org/exit-vs-_exit-c-cpp/)
+An addition to the previous explanation. This link is more to the implementation more than theory. Its very easy to understand and very helpful in my opinion for understanding the usage of the exit function.
