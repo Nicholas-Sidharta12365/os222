@@ -62,3 +62,11 @@ ZCZC W06 60 L12 Assignment #2 Finished
 ZCZC W06 120 L13 Assignment #3 Finished
 ZCZC W06 120 L14 Assignment #4 Finished
 ZCZC W06 200 L06 Study Week 06 Slides
+ZCZC W07 200 L99 Face-to-face lecture
+ZCZC W07 5 L05 Essay Quiz Week 7
+ZCZC W07 3 L05 Quiz Week 7
+ZCZC W07 360 L11 Assignment #1 Finished
+ZCZC W07 60 L12 Assignment #2 Finished
+ZCZC W07 120 L13 Assignment #3 Finished
+ZCZC W07 120 L14 Assignment #4 Finished
+ZCZC W07 200 L06 Study Week 07 Slides

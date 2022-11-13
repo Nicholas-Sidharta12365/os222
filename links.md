@@ -66,3 +66,11 @@ An explanation about the maximum number or process id and how the value of it co
 An explanation about the difference about this two functions on terminating a process. I believe to be very useful especially with short and compact explanations.
 3. [exit vs _exit - gfg](https://www.geeksforgeeks.org/exit-vs-_exit-c-cpp/)
 An addition to the previous explanation. This link is more to the implementation more than theory. Its very easy to understand and very helpful in my opinion for understanding the usage of the exit function.
+
+## Week 7
+1. [Deadlock Introduction - gfg](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+A helpful link that explains about deadlock. Complete with a video explanation and pictures to help understand the basic concept of Deadlocks. Highly recommended for general understanding of deadlock.
+2. [Banker's Algorithm - gfg](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/?ref=lbp)
+In depth explanation about the banker's algorithm complete with detailed explanations and implementations with various programming languages. A very helpful programming approach of understanding the banker's algorithm, highly recommended.
+3. [Mutex vs Semaphore - gfg](https://www.geeksforgeeks.org/mutex-vs-semaphore/?ref=lbp)
+A complete explanation about the differences of mutex and semaphore as well as when to use which thread. Complete with misconception explanations and general questions about mutex and semaphore. Its very easy to understand and very helpful in my opinion.
