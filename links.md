@@ -74,3 +74,7 @@ A helpful link that explains about deadlock. Complete with a video explanation a
 In depth explanation about the banker's algorithm complete with detailed explanations and implementations with various programming languages. A very helpful programming approach of understanding the banker's algorithm, highly recommended.
 3. [Mutex vs Semaphore - gfg](https://www.geeksforgeeks.org/mutex-vs-semaphore/?ref=lbp)
 A complete explanation about the differences of mutex and semaphore as well as when to use which thread. Complete with misconception explanations and general questions about mutex and semaphore. Its very easy to understand and very helpful in my opinion.
+
+## Week 8
+1. [Chroot - ArchWiki](https://wiki.archlinux.org/title/chroot)
+A helpful explanation about chroot that was found on one of the LFS chapters. Simple and really to understand to wrap my head around.

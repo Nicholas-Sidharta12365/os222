@@ -70,3 +70,11 @@ ZCZC W07 60 L12 Assignment #2 Finished
 ZCZC W07 120 L13 Assignment #3 Finished
 ZCZC W07 120 L14 Assignment #4 Finished
 ZCZC W07 200 L06 Study Week 07 Slides
+ZCZC W08 200 L99 Face-to-face lecture
+ZCZC W08 5 L05 Essay Quiz Week 8
+ZCZC W08 3 L05 Quiz Week 8
+ZCZC W08 240 L11 Assignment #1 Finished
+ZCZC W08 60 L12 Assignment #2 Finished
+ZCZC W08 480 L13 Assignment #3 Finished
+ZCZC W08 120 L14 Assignment #4 Finished
+ZCZC W08 200 L06 Study Week 08 Slides
